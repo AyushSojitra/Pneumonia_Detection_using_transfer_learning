@@ -9,4 +9,4 @@
 1. Open "app.html" file from "UI" folder in google chrome.
 2. Run "server.py" from "server" folder
 3. Upload the chest X-Ray image in "app.html" and click n classify button.
-Note: VGG16 has been used for website.
+<br>Note: VGG16 has been used for website.
